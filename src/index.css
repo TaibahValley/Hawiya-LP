@@ -1,0 +1,23 @@
+body {
+  width: 100%;
+  background-image: url("../src/assets/imgs/svg/NFT_Marketplace_Landing_Page.svg");
+  /* background-size: cover; */
+  background-size: 70%;
+  /* background-size: auto; */
+  background-repeat: no-repeat;
+  background-position: right top;
+  /* background-attachment: fixed; */
+
+
+  /* margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;  */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

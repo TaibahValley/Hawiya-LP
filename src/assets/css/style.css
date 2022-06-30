@@ -1,0 +1,491 @@
+body *{
+    color: white;
+    
+}
+
+.rows{
+    background-color: rgba(255,255,255,0.06);
+    backdrop-filter: blur(1px);
+    margin: auto;
+    width: 80%;
+    margin-top: 5%;
+    padding: 1%;
+    border: 1px solid #FF49C2;
+    border-radius: 20px;
+    color: white;
+    overflow: hidden;
+}
+
+.section{
+    padding-top: 5% ;
+    margin: auto;
+}
+
+
+/* --------------------------------------------------------------- */
+/* Header */
+
+#header-row{
+    color: white;
+    padding-top: 3%;
+    margin-bottom: 5%;
+}
+.sattamImg{
+    width: 99%;
+    margin: 0%;
+    padding: 0%;
+    
+}
+#header-col{
+    overflow: hidden;
+    text-align: left;
+    padding-top: 5%;
+    
+}
+#line-h{
+    background: linear-gradient(to right, #0091E4, #FF49C2);
+    height: 2px;
+    width: 25%;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+#Partnership-b{
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    background: linear-gradient(to right, #FF49C2 , #FAEA2A);
+    border-radius: 5px;
+    font-size: 99%;
+    text-align: center;
+}
+
+/* --------------------------------------------------------------------------- */
+/* About */
+
+.about-card{
+    margin: auto;
+    display: inline-block;
+    vertical-align: top;
+    overflow: hidden;
+    padding: 1.5%;
+    background: transparent;
+    border-radius: 5%;
+    margin: 1%;
+    text-align: center;
+}
+#tezosLogo{
+    width: 15%;
+    display: inline-block;
+    vertical-align: top;
+    }
+#line-a{
+    background: linear-gradient(to right, #0091E4, #FF49C2);
+    height: 2px;
+    width: 25%;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    margin-left: 2%;
+}
+#nftPrice{
+    font-size: 11px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 5%;
+}
+#About1col{
+    text-align: center;
+    border: 1px solid #FF49C2;
+    border-radius: 20px;
+    width: 90%;
+    margin: auto;
+}
+#About3col{
+    padding-left: 20%;
+    text-align: center;
+}
+.about-card:first-child{
+    width: 38%;
+    border: 2px solid #0091E4;
+}
+
+.about-card:nth-child(2){
+    border: none;
+    width: 55%;
+}
+
+#t-about{
+    font-size: 25px;
+}
+.sattamImg2{
+    width: 70%;
+    margin: auto;
+    /* border: 2px solid linear-gradient(to right, #0091E4, #FF49C2); */
+
+}
+#wishListBt{
+    padding: 5%;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    /* padding:.5rem; */
+    background: linear-gradient(to right, #FF49C2 , #FAEA2A);
+    border-radius: 5px;
+    font-size: 100%;
+    text-align: center;
+}
+.like{
+    width: 25%;
+}
+span1{
+    color: #FF49C2;
+}
+
+
+
+/* ---------------------------------------------------------------------- */
+/* Roadmap */
+
+
+#roadmap{
+    margin:auto;
+    margin-top: 3%;
+    width: 65%;
+    padding-top: 4%;
+}
+.raodmap-cols{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    /* border: 1px solid #FF49C2; */
+}
+#line-r{
+    background: linear-gradient(to right, #0091E4, #FF49C2);
+    height: 2px;
+    width: 15%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 2%;
+}
+
+#paint{
+    width: 30%;
+    opacity: 30%;
+}
+#t-roadmap{
+    margin-top: 4%;
+    /* position: absolute; */
+}
+#i-roadmap{
+    width: 80%;
+    margin: auto;
+    /* margin-top: 5%; */
+    /* border: 1px solid #FF49C2; */
+}
+
+.cols{
+    overflow: hidden;
+    min-height: 250px;
+    border: 2px solid #FF49C2;
+    margin: 1%;
+    border-radius: 2%;
+}
+
+.PartnershipEmail{
+    padding: 2%;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    padding:.5rem;
+    background: linear-gradient(to right, #FF49C2 , #FAEA2A);
+    border-radius: 10px;
+}
+#collectionshare{
+    padding: 4%;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    background: linear-gradient(to right, #FF49C2 , #FAEA2A);
+    border-radius: 10px;
+}
+
+/* #footer-box{
+    position: relative;
+} */
+
+#footer{
+    /* margin-bottom: 4%; */
+    margin-left: 16%;  
+    /* margin-right: auto; */
+    position: absolute;
+}
+
+/* span{
+    color: #FF49C2;
+} */
+
+
+
+/* ---------------------------------------------------------- */
+/* Collections */
+#Collections h1{
+    margin-left: 3%;
+}
+.coll-card{
+    display: inline-block;
+    vertical-align: top;
+    width: 31.2%;
+    overflow: hidden;
+    border: 2px solid #0091E4;
+    padding: 1% 3%;
+    background: transparent;
+    border-radius: 5%;
+    margin: 1%;
+    text-align: left;
+    font-size: 80%;
+}
+.i-card{
+    margin: auto;
+    width: 90%;
+    margin-bottom: 2%;
+}
+.coll-b{
+    padding: 5%;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    /* padding:.5rem; */
+    background: linear-gradient(to right, #FF49C2 , #FAEA2A);
+    border-radius: 5px;
+    font-size: 100%;
+    text-align: center;
+}
+
+.c-card{
+    margin: 1%;
+    border-radius: 5%;
+}
+#share-row{
+    width: 100%;
+    text-align: right;
+}
+#c-share{
+    padding: 5%;
+    border-radius: 5%;
+    text-decoration: none;
+    color: #FF49C2;
+    font-size: 90%;
+    
+}
+.coll-tezosLogo{
+    width: 15%;
+    height: 25px;
+    background-color: white;
+    padding: 4px;
+    border-radius: 100%;
+    margin-right: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.coll-p{
+    display: inline-block;
+    vertical-align: top;
+}
+.c-like{
+    width: 35%;
+    
+}
+.like-row{
+    text-align: center;
+}
+
+/* ------------------------------------------------------------ */
+/* Team */
+
+#Team{
+    width: 65%;
+    margin: auto;
+    margin-top: 3%;
+    padding-top: 5%;
+}
+#Team p{
+    font-size: 24px;
+}
+#line-t{
+    background: linear-gradient(to right, #0091E4, #FF49C2);
+    height: 2px;
+    width: 15%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 3%;
+}
+
+.t-team{
+    text-decoration: none;
+    padding: 2%;
+    border: 2px solid #0091E4;
+    border-radius: 5px;
+    margin-left: 16%;
+    width: 27%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    min-height: 110px;
+    font-size: 32px;
+    background-color: rgba(10, 10, 10, 0.3);
+    backdrop-filter: blur(1px);
+}
+#teamBrow{
+    width: 95%;
+    /* margin: auto; */
+}
+
+/* ----------------------------------------------------------- */
+/* Contant */
+#Contact{
+    background-color: rgba(10, 10, 10, 0.3);
+    backdrop-filter: blur(1px);
+    width: 68%;
+    margin-top: 5%;
+    padding: 4%;
+    padding-top: 5%;
+    border-radius: 10px;
+    border: 2px solid #0091E4;
+    text-align: center;
+}
+
+.contact-cols{
+    padding: 2%;
+    width: 25%;
+    border-radius: 10px;
+    border: 2px solid #0091E4;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15%;
+    margin-top: 3%;
+}
+
+.social{
+    width: 20%;
+    display: inline-block;
+    vertical-align: center;
+    margin-right: 3%;
+}
+.t-social{
+    display: inline-block;
+    vertical-align: center;
+    text-decoration: none;
+    font-size: 99%;
+}
+
+
+/* ----------------------------------------------- */
+/* Footer */
+#footer{
+    position:absolute;
+    background-color: rgba(10, 10, 10, 0.3);
+    backdrop-filter: blur(1px);
+    width: 68%;
+    margin-top: 5%;
+    padding: 1%;
+    border-radius: 10px;
+    border: 2px solid #0091E4;
+    
+}
+#footer div{
+    /* border: 2px solid #0091E4; */
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10%;
+    width: 39%;
+    padding: 4%;
+}
+span{
+    border: 1px solid #0091E4;
+    border-radius: 10px;
+    margin-left: 2%;
+    padding: 4px;
+}
+#f-tezos{
+    margin-top: 10%;
+    width: 20%;
+}
+
+/* col2 */
+#subscribeBtn{
+    padding: 1.2%;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    background: linear-gradient(to right, #FF49C2 , #FAEA2A);
+    border-radius: 5px;
+    font-size: 99%;
+    text-align: center;
+}
+
+#sub-inpu{
+    background-color: rgb(13,36,60);
+    font-size: 30%;
+
+}
+@media only screen and (max-width: 700px) {
+    body{
+        margin-left: 50px;
+    }
+    .about-card{
+        display: block;
+        width: 90%;
+        margin: auto;
+        margin-top: 5px;
+    }
+    .about-card:first-child{
+        width: 95%;
+    }
+    .about-card:nth-child(2){
+        width: 95%;
+    }
+    .coll-card{
+        display: block;
+        width: 90%;
+        min-height: 300px;
+        margin: auto;
+        margin-top: 5px;
+    }
+    .raodmap-cols{
+        display: block;
+        margin-bottom: 10px;
+        margin: 5%;
+    }
+    #share-row{
+        width: 100%;
+        text-align: left;
+        margin-left: 0%;
+    }
+    #t-roadmap{
+        width: 90%;
+        margin: 5%;
+    }
+    
+    #i-roadmap{
+        width: 95%;
+        margin: 5%;
+    }
+    .t-team{
+        display: block;
+        width: 60%;
+        margin: 3%;
+        font-size: 20px;
+        height: 70px;
+        /* margin: auto; */
+    }
+    #Team{
+        width: 90%;
+        margin: auto;
+    }
+    #footer div{
+        width: 96%;
+        display: block;
+    }
+}
